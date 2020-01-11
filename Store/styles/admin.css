@@ -1,0 +1,14 @@
+
+#bod{
+    background: #f0f0f0;
+}
+h1{
+    margin-bottom: 20px;
+    text-align: center;
+}
+.row{
+    margin-bottom: 25px;
+}
+.col-4{
+    text-align: right;
+}
